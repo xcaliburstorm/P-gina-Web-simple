@@ -1,0 +1,45 @@
+.logo{
+    border-radius: 15px;
+}
+
+.video{    
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 5px;
+    border-style: double;    
+}
+
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav.item .nav-link{
+    color: cornsilk;
+}
+
+.main-header{
+    position: relative;
+    background: url(../img/impresora.jpg);
+    background-size: cover;
+    min-height: 480px;     
+}
+
+.background-overlay{
+    position: absolute;
+    background:rgba(72, 52, 212,.8);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.team{
+    background: #686de0;
+}
+
+.footer{
+    background: #686de0;
+}
+
+
